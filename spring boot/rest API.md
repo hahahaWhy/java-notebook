@@ -355,9 +355,9 @@ public class RestTemplateTest {
 
 测试结果
 
-![image-20201015114216984](spring boot/image/image-20201015114216984.png)
+![image-20201015114216984](https://github.com/hahahaWhy/java-notebook/blob/main/spring%20boot/image/image-20201015114216984.png?raw=true)
 
 浏览器访问
 
-![image-20201015114552327](spring boot/image/image-20201015114244553.png)
+![image-20201015114552327](https://github.com/hahahaWhy/java-notebook/blob/main/spring%20boot/image/image-20201015114244553.png?raw=true)
 
