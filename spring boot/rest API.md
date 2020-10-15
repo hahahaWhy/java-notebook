@@ -355,9 +355,9 @@ public class RestTemplateTest {
 
 测试结果
 
-![image-20201015114216984](C:\Users\23677\AppData\Roaming\Typora\typora-user-images\image-20201015114216984.png)
+![image-20201015114216984](spring boot/image/image-20201015114216984.png)
 
 浏览器访问
 
-![image-20201015114552327](C:\Users\23677\AppData\Roaming\Typora\typora-user-images\image-20201015114552327.png)
+![image-20201015114552327](spring boot/image/image-20201015114244553.png)
 
